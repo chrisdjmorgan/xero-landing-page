@@ -6,19 +6,19 @@ please pay attention to the use of classes in HTML elements */
 
 /* Please change the primary color and secondary color to fit your website styles */
 .xlp-bg-primary-color {
-  background-color: #32465a;
+  background-color: #294b7b;
 }
 
 .xlp-bg-secondary-color {
-  background-color: #4b6174;
+  background-color: #7e93af;
 }
 
 .xlp-text-primary-color {
-  color: #32465a;
+  color: #294b7b;
 }
 
 .xlp-text-secondary-color {
-  color: #4b6174;
+  color: #00DCE6;
 }
 /* only above entries has primary and secondary colors */
 
@@ -45,7 +45,7 @@ please pay attention to the use of classes in HTML elements */
 }
 
 .xlp-btn-app-cta {
-  background-color: #4caf50;
+  background-color: #53bc81;
   border: none;
   color: white;
   padding: 0.7em 3em;
